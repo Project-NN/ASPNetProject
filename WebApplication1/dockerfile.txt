@@ -1,0 +1,4 @@
+From  scratch
+RUN   mkdir -p/home/app
+COPY  ./home/app
+CMD   ["echo" ,"Hello app"]
